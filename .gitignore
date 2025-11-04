@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+output/
+*.parquet
+*.png
+*.log
+
+# Environment
+.venv/
+venv/
+ENV/
+
+cookie.json
